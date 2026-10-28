@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=7B1FA2&background=F3E5F5&center=true&vCenter=true&width=580&height=80&lines=Hi+I'm+Jenny!+✨;Welcome+to+My+Portfolio+;CPE+010+Data+Structures+%26+Algorithms)
+![Header Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=7B1FA2&background=F3E5F5&center=true&vCenter=true&width=650&height=80&lines=+Hi+there%2C+I'm+Jenny!+;Welcome+to+My+Portfolio+;CPE+010+Data+Structures+%26+Algorithms)
 
 <details>
 <summary><b>💻 💜 Laboratory Submissions & C++ Headers (click to toggle)</b></summary>
